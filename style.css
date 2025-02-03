@@ -1,0 +1,53 @@
+h1{
+font-size: 50px;
+text-align: center;
+color: #f5eeee;
+font-family: Helvetica, sans-serif
+}
+
+h2{
+font-size: 40px;
+text-align: center;
+color: #f5eeee;
+font-family: Helvetica, sans-serif
+}
+
+
+h3{
+font-size: 30px;
+text-align: center;
+color: #f5eeee;
+font-family: Helvetica, sans-serif
+}
+
+
+p{
+font-size: 20px;
+text-align: center;
+font-family: Helvetica, sans-serif;
+color: #f5eeee
+}
+
+body {
+background-color: #323837;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+
+a {
+    color: white; /* Change la couleur des liens en blanc */
+    text-decoration: none; /* Enlève le soulignement (facultatif) */
+}
+
+a:hover {
+    color: lightgray; /* Change la couleur quand la souris passe dessus (optionnel) */
+}
+
+.liens-container {
+    text-align: center;
+}
